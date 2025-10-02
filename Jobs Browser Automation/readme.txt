@@ -24,5 +24,5 @@ It automatically searches for jobs based on user-defined "keywords" and "locatio
 =>Installation & Setup
   ->Clone this repository:
    ```bash
-   git clone https://github.com/OSMAN-ZAFAR/Jobs automation bot.git
+   git clone https://github.com/OSMAN-ZAFAR/AUTOMATION-PROJECTS/tree/main/Jobs%20Browser%20Automation
    cd job-scraper-pro
